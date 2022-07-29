@@ -2,8 +2,7 @@
 # Reflective Report
 ---
 ---
-Conducting this DMF assignment has been a worthwile experience, that has taught me both technical and essesntial general life skills. Through this assigment  i was able to get a job in business intelligence, just to show how much i have learnt from it.
-I have learnt the importance of resilience, trial and error , reasearch, analytical thinking ,computational thinking and most importantly communication and storytelling.
+Conducting this Project has been a worthwile experience, that has taught me both technical and essesntial general life skills. Through this assigment i have learnt the importance of resilience, trial and error , reasearch, analytical thinking ,computational thinking and most importantly communication and storytelling.
 
 I will explain in steps the problems i faced during this assignment and the steps i took to solve them:
 
