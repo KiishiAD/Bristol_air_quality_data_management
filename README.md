@@ -1,5 +1,5 @@
 # __Bristol_air_quality_data_management__
-### This project contains csvs, python scripts, pngs, and the SQL code i used to store over a million rows of bristol air quality data it ends with a report on each of the steps taken.
+### Reverse engineered a database from a csv folder of million records of bristol air quality data
 ### __Brief overview of steps taken__
 - Cleaning and data preprocessing
 - Normalisation
